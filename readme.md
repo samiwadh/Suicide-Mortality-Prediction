@@ -111,7 +111,7 @@ The KNIME workflow does the following:
 ## How to run
 
 1. Install KNIME Analytics Platform (same major version used for this project).
-2. Import the workflow from `workflow/Suicide_Rate_XGBoost_J48.knwf`.
+2. Import the workflow from `Suicide Rate Prediction Complete workflow.knwf`.
 3. Configure the CSV Reader path to point to your local copy of the dataset.
 4. Execute the workflow from top to bottom.
 5. Inspect the Numeric Scorer nodes for XGBoost and the Confusion Matrix node for J48.  
