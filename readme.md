@@ -95,7 +95,7 @@ The KNIME workflow does the following:
 
 ## Repository contents
 
-- `workflow/Suicide_Rate_XGBoost_J48.knwf`  
+- `Suicide Rate Prediction Complete workflow.knwf`  
   KNIME workflow implementing both regression and classification pipelines.
 
 - `models/xgb_suicide_model.knime`  
